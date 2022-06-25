@@ -18,10 +18,10 @@ public class FlipCoin {
         System.out.println("Number of tails: " + tailCount);
         
         float percentHeads = ((float)headCount / 2) * 100;
-        System.out.println("Percent heads: " + percentHeads + '%');
+        System.out.println("Percent heads: " + percentHeads + "%");
         
         float percentTails = ((float)tailCount / 2) * 100;
-        System.out.println("Percent tails: " + percentTails + "%\n");
+        System.out.println("Percent tails: " + percentTails + "%");
 
 	}
 }
