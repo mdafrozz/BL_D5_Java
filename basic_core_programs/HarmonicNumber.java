@@ -9,14 +9,20 @@ public static void main(String[] args) {
 		double sum=0;
 		@SuppressWarnings("resource")
 		Scanner sc=new Scanner(System.in);
-		System.out.println("Enter a number");
+		System.out.println("Enter a number: ");
 		num=sc.nextDouble();
 		
-		for( i=1;i<=num;i++)
+		if(num==0)
+			{
+			System.out.println("Enter a valid number");
+			}
+		else
+			{
+			for( i=1;i<=num;i++)
 		{
 			sum=sum+(1/i);
 		}
 		System.out.println("Harmonic value = "+sum);
-
+			}
 	}
 }
