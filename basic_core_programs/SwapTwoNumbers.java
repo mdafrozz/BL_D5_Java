@@ -9,23 +9,16 @@ public static void main(String[] args) {
 		
 		 @SuppressWarnings("resource")
 		Scanner sc = new Scanner(System.in);  
-		 System.out.println("Enter the value of A and B:"); 
+		 System.out.println("Enter two numbers to swap:"); 
 		 a = sc.nextInt(); 
 		 b = sc.nextInt(); 
 		 
-		 System.out.println("Before swapping numbers: "+a +"  "+ b); 
+		 System.out.println("Before swapping the numbers are: "+a +"  "+ b); 
 		 
 		 c = a;
 		 a = b;
 		 b = c;
-		 System.out.println("After swapping: "+a +"   " + b); //After swapping
+		 System.out.println("After swapping the numbers are: "+a +"   " + b); //After swapping
 		 
-		 //Task
-		 System.out.println("After combine: " + a + b);
-		 int add = a+b;
-		 System.out.println("After adding: " + add);
-		 int sum = add+30;
-		 System.out.println("Sum of digit: " + sum);
-
 	}
 }
