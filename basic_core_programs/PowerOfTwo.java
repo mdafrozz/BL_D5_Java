@@ -2,7 +2,7 @@ package basic_core_programs;
 
 import java.util.Scanner;
 
-public class PowerOf2 {
+public class PowerOfTwo {
 public static void main(String[] args) {
 		
 		@SuppressWarnings("resource")
