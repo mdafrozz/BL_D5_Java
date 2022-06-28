@@ -21,5 +21,5 @@ public static void main(String[] args) {
 		System.out.println("The quotient is: " + quotient);
         System.out.println("The remainder is: " + remainder);
 
-	}
+}
 }
