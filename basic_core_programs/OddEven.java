@@ -2,7 +2,7 @@ package basic_core_programs;
 
 import java.util.Scanner;
 
-public class EvenOdd {
+public class OddEven {
 
 	public static void main(String[] args) {
 		
