@@ -2,7 +2,7 @@ package basic_core_programs;
 
 import java.util.Scanner;
 
-public class LargestOfThreeNumbers {
+public class LargestOfThreeNum {
 	public static void main(String[] args) {
 		
 		int x, y, z;
