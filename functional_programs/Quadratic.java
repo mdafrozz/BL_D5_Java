@@ -1,7 +1,7 @@
 package functional_programs;
 
 import java.util.Scanner;
-
+//program to find the roots of the equation a*x*x + b*x + c
 public class Quadratic {
 	public static void main(String[] args) {
 		
