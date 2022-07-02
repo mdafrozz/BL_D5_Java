@@ -1,5 +1,5 @@
 package basic_core_programs;
-
+//Program to print Percentage of Head vs Tails
 public class FlipCoin {
 	public static void main(String[] args) {
 		
