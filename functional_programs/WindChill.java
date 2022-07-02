@@ -1,7 +1,7 @@
 package functional_programs;
 
 import java.util.Scanner;
-
+//program that takes two double command-line arguments t and v and prints the wind chill.
 public class WindChill {
 	
 	public static void main(String[] args) {
