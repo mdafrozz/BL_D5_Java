@@ -1,7 +1,7 @@
 package basic_core_programs;
 
 import java.util.Scanner;
-
+//Program to Print the year is a Leap Year or not
 public class LeapYear {
 public static void main(String[] args) {
 		
