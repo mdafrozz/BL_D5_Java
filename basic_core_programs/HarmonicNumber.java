@@ -1,7 +1,7 @@
 package basic_core_programs;
 
 import java.util.Scanner;
-
+//Program to Print the Nth Harmonic Value.
 public class HarmonicNumber {
 public static void main(String[] args) {
 		
