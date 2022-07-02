@@ -1,7 +1,7 @@
 package basic_core_programs;
 
 import java.util.Scanner;
-
+//Program to print prime factors of N
 public class Factors {
 public static void main(String[] args) {
 		
